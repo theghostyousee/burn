@@ -1,0 +1,152 @@
+Uri: https://redponzigud.com/
+File Name: C:\Downloaded Web Sites\redponzigud.com\index.htm
+Content Type: text/html
+
+Uri: https://redponzigud.com/favicon.ico
+File Name: C:\Downloaded Web Sites\redponzigud.com\favicon.ico
+Content Type: image/vnd.microsoft.icon
+
+Uri: https://redponzigud.com/images/cloudy.svg
+File Name: C:\Downloaded Web Sites\redponzigud.com\images\cloudy.svg
+Content Type: image/svg+xml
+
+Uri: https://redponzigud.com/images/RPG.svg
+File Name: C:\Downloaded Web Sites\redponzigud.com\images\RPG.svg
+Content Type: image/svg+xml
+
+Uri: https://redponzigud.com/_next/image?url=%2Fimages%2FGUDbutton-up.webp&w=640&q=75
+File Name: C:\Downloaded Web Sites\redponzigud.com\_next\GUDbutton-up-1.png
+Content Type: image/png
+
+Uri: https://redponzigud.com/_next/image?url=%2Fimages%2FGUDbutton-up.webp&w=828&q=75
+File Name: C:\Downloaded Web Sites\redponzigud.com\_next\GUDbutton-up.png
+Content Type: image/png
+
+Uri: https://redponzigud.com/_next/image?url=%2Fimages%2Flogo%2Fdex.png&w=48&q=75
+File Name: C:\Downloaded Web Sites\redponzigud.com\_next\dex-1.png
+Content Type: image/png
+
+Uri: https://redponzigud.com/_next/image?url=%2Fimages%2Flogo%2Fdex.png&w=96&q=75
+File Name: C:\Downloaded Web Sites\redponzigud.com\_next\dex.png
+Content Type: image/png
+
+Uri: https://redponzigud.com/_next/image?url=%2Fimages%2Flogo%2Fethscan.png&w=48&q=75
+File Name: C:\Downloaded Web Sites\redponzigud.com\_next\ethscan-1.png
+Content Type: image/png
+
+Uri: https://redponzigud.com/_next/image?url=%2Fimages%2Flogo%2Fethscan.png&w=96&q=75
+File Name: C:\Downloaded Web Sites\redponzigud.com\_next\ethscan.png
+Content Type: image/png
+
+Uri: https://redponzigud.com/_next/image?url=%2Fimages%2Flogo%2Fmetamask.png&w=48&q=75
+File Name: C:\Downloaded Web Sites\redponzigud.com\_next\metamask-1.png
+Content Type: image/png
+
+Uri: https://redponzigud.com/_next/image?url=%2Fimages%2Flogo%2Fmetamask.png&w=96&q=75
+File Name: C:\Downloaded Web Sites\redponzigud.com\_next\metamask.png
+Content Type: image/png
+
+Uri: https://redponzigud.com/_next/image?url=%2Fimages%2Fmain.gif&w=1920&q=75
+File Name: C:\Downloaded Web Sites\redponzigud.com\_next\main.gif
+Content Type: image/gif
+
+Uri: https://redponzigud.com/_next/image?url=%2Fimages%2Fmain.gif&w=828&q=75
+File Name: C:\Downloaded Web Sites\redponzigud.com\_next\main-1.gif
+Content Type: image/gif
+
+Uri: https://redponzigud.com/_next/image?url=%2Fimages%2Ftokens%2Favax.webp&w=128&q=75
+File Name: C:\Downloaded Web Sites\redponzigud.com\_next\avax.png
+Content Type: image/png
+
+Uri: https://redponzigud.com/_next/image?url=%2Fimages%2Ftokens%2Favax.webp&w=64&q=75
+File Name: C:\Downloaded Web Sites\redponzigud.com\_next\avax-1.png
+Content Type: image/png
+
+Uri: https://redponzigud.com/_next/image?url=%2Fimages%2Ftokens%2Fcoq.webp&w=128&q=75
+File Name: C:\Downloaded Web Sites\redponzigud.com\_next\coq.png
+Content Type: image/png
+
+Uri: https://redponzigud.com/_next/image?url=%2Fimages%2Ftokens%2Fcoq.webp&w=64&q=75
+File Name: C:\Downloaded Web Sites\redponzigud.com\_next\coq-1.png
+Content Type: image/png
+
+Uri: https://redponzigud.com/_next/image?url=%2Fimages%2Ftractor-joe.webp&w=640&q=75
+File Name: C:\Downloaded Web Sites\redponzigud.com\_next\tractor-joe-1.png
+Content Type: image/png
+
+Uri: https://redponzigud.com/_next/image?url=%2Fimages%2Ftractor-joe.webp&w=828&q=75
+File Name: C:\Downloaded Web Sites\redponzigud.com\_next\tractor-joe.png
+Content Type: image/png
+
+Uri: https://redponzigud.com/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fpie-chart.968be3d6.webp&w=1920&q=75
+File Name: C:\Downloaded Web Sites\redponzigud.com\_next\pie-chart.png
+Content Type: image/png
+
+Uri: https://redponzigud.com/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fpie-chart.968be3d6.webp&w=640&q=75
+File Name: C:\Downloaded Web Sites\redponzigud.com\_next\pie-chart-1.png
+Content Type: image/png
+
+Uri: https://redponzigud.com/_next/static/chunks/295-a62c26928b4ca366.js
+File Name: C:\Downloaded Web Sites\redponzigud.com\_next\static\chunks\295-a62c26928b4ca366.js
+Content Type: application/javascript
+
+Uri: https://redponzigud.com/_next/static/chunks/938-595cdef451678b04.js
+File Name: C:\Downloaded Web Sites\redponzigud.com\_next\static\chunks\938-595cdef451678b04.js
+Content Type: application/javascript
+
+Uri: https://redponzigud.com/_next/static/chunks/app/layout-19520bff4e8684bd.js
+File Name: C:\Downloaded Web Sites\redponzigud.com\_next\static\chunks\app\layout-19520bff4e8684bd.js
+Content Type: application/javascript
+
+Uri: https://redponzigud.com/_next/static/chunks/app/page-5fb82bc2ac211b8e.js
+File Name: C:\Downloaded Web Sites\redponzigud.com\_next\static\chunks\app\page-5fb82bc2ac211b8e.js
+Content Type: application/javascript
+
+Uri: https://redponzigud.com/_next/static/chunks/fd9d1056-b31d2e3bee2ad507.js
+File Name: C:\Downloaded Web Sites\redponzigud.com\_next\static\chunks\fd9d1056-b31d2e3bee2ad507.js
+Content Type: application/javascript
+
+Uri: https://redponzigud.com/_next/static/chunks/main-app-01dcb8892b176af1.js
+File Name: C:\Downloaded Web Sites\redponzigud.com\_next\static\chunks\main-app-01dcb8892b176af1.js
+Content Type: application/javascript
+
+Uri: https://redponzigud.com/_next/static/chunks/polyfills-c67a75d1b6f99dc8.js
+File Name: C:\Downloaded Web Sites\redponzigud.com\_next\static\chunks\polyfills-c67a75d1b6f99dc8.js
+Content Type: application/javascript
+
+Uri: https://redponzigud.com/_next/static/chunks/webpack-9c4e069220966446.js
+File Name: C:\Downloaded Web Sites\redponzigud.com\_next\static\chunks\webpack-9c4e069220966446.js
+Content Type: application/javascript
+
+Uri: https://redponzigud.com/_next/static/css/96177536a6da8f64.css
+File Name: C:\Downloaded Web Sites\redponzigud.com\_next\static\css\96177536a6da8f64.css
+Content Type: text/css
+
+Uri: https://redponzigud.com/_next/static/media/05a31a2ca4975f99-s.woff2
+File Name: C:\Downloaded Web Sites\redponzigud.com\_next\static\media\05a31a2ca4975f99-s.woff2
+Content Type: font/woff2
+
+Uri: https://redponzigud.com/_next/static/media/513657b02c5c193f-s.woff2
+File Name: C:\Downloaded Web Sites\redponzigud.com\_next\static\media\513657b02c5c193f-s.woff2
+Content Type: font/woff2
+
+Uri: https://redponzigud.com/_next/static/media/51ed15f9841b9f9d-s.woff2
+File Name: C:\Downloaded Web Sites\redponzigud.com\_next\static\media\51ed15f9841b9f9d-s.woff2
+Content Type: font/woff2
+
+Uri: https://redponzigud.com/_next/static/media/c9a5bc6a7c948fb0-s.p.woff2
+File Name: C:\Downloaded Web Sites\redponzigud.com\_next\static\media\c9a5bc6a7c948fb0-s.p.woff2
+Content Type: font/woff2
+
+Uri: https://redponzigud.com/_next/static/media/d6b16ce4a6175f26-s.woff2
+File Name: C:\Downloaded Web Sites\redponzigud.com\_next\static\media\d6b16ce4a6175f26-s.woff2
+Content Type: font/woff2
+
+Uri: https://redponzigud.com/_next/static/media/ec159349637c90ad-s.woff2
+File Name: C:\Downloaded Web Sites\redponzigud.com\_next\static\media\ec159349637c90ad-s.woff2
+Content Type: font/woff2
+
+Uri: https://redponzigud.com/_next/static/media/fd4db3eb5472fc27-s.woff2
+File Name: C:\Downloaded Web Sites\redponzigud.com\_next\static\media\fd4db3eb5472fc27-s.woff2
+Content Type: font/woff2
+
